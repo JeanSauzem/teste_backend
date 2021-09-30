@@ -6,7 +6,9 @@
 # Desafio
 
 A prova consiste na construção de uma aplicação para cadastro de plantas e abelhas e visualização de quais plantas florescem durante o ano.
+
 Criar um ou mais repositórios públicos no gitlab/github
+
 Mandaro link dos repositórios para email da Tech-recruter
 
 # Requisitos
