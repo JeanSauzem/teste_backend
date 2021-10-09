@@ -1,7 +1,7 @@
 # Teste Backend
 
 # Obs:
-- Não manda pull requests
+- Não mandar pull requests
 
 # Desafio
 
@@ -9,7 +9,7 @@ A prova consiste na construção de uma aplicação para cadastro de plantas e a
 
 Criar um ou mais repositórios públicos no gitlab/github
 
-Mandaro link dos repositórios para email da Tech-recruter
+Mandar o(s) link(s) do(s) repositório(s) para email da Tech-recruter
 
 # Requisitos
  - Banco de dados para armazenamento das plantas e abelhas.
