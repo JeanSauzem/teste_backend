@@ -28,6 +28,6 @@ Mandar o(s) link(s) do(s) repositório(s) para email da Tech-recruter
 
 # Diferencial
 - Docker
-- Padroão de codificação(KISS,DRY,SOLID,DESIGN PATTERN)
+- Padroão de codificação(KISS,DRY,SOLID,DESIGN PATTERN,TEC..)
 - Teste unitários
 - Documentação
