@@ -26,3 +26,8 @@ Mandar o(s) link(s) do(s) repositório(s) para email da Tech-recruter
  - Guarupu (Melipona bicolor);
  - Iraí (Nannotrigona testaceicornes);
 
+# Diferencial
+- Docker
+- Padroão de codificação(KISS,DRY,SOLID,DESIGN PATTERN)
+- Teste unitários
+- Documentação
