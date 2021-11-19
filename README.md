@@ -5,7 +5,7 @@
 
 # Desafio
 
-A prova consiste na construção de uma aplicação para cadastro de plantas e abelhas e visualização de quais plantas florescem durante o ano.
+A prova consiste na construção de uma api rest full para cadastro de plantas e abelhas e visualização de quais plantas florescem durante o ano.
 
 Criar um ou mais repositórios públicos no gitlab/github
 
